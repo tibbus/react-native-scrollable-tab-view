@@ -1,9 +1,3 @@
-.project
-npm-debug.log
-node_modules/
-.idea/
-.reploy
-
 # OSX
 #
 .DS_Store
@@ -61,4 +55,5 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
-package-lock.json
+# CocoaPods
+/ios/Pods/
